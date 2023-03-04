@@ -481,7 +481,7 @@
 			},
 			"datalakeAccountName": {
 				"type": "string",
-				"defaultValue": "kvconlcfflrpryg7q4poc"
+				"defaultValue": "conlcfflrpryg7q4poc"
 			}
 		},
 		"folder": {
